@@ -1,6 +1,6 @@
 import "./styles.css";
 import * as _ from "lodash";
-const PIXI = require('pixi.js');
+import * as PIXI from "pixi.js";
 
 
 const app = new PIXI.Application({
